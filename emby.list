@@ -2,31 +2,30 @@
 # > Emby
 # Odyssey+ 公益服
 # CloudFlare
-DOMAIN,cf.odysseyplus.site
+DOMAIN-SUFFIX,cf.odysseyplus.site
 # AGA 香港
-DOMAIN,agahk.odysseyplus.site
+DOMAIN-SUFFIX,agahk.odysseyplus.site
 # AGA 新加坡
-DOMAIN,agasg.odysseyplus.site
+DOMAIN-SUFFIX,agasg.odysseyplus.site
 # 俄罗斯
-DOMAIN,ru.odysseyplus.site
+DOMAIN-SUFFIX,ru.odysseyplus.site
 
 # 卷毛鼠
 # 后花园
-DOMAIN,cf1.jmsooo.com
-DOMAIN,178.170.46.165
-DOMAIN,kk.kwz.io
-DOMAIN,eden.kwz.io
-DOMAIN,120.197.88.253
-DOMAIN,i.kwz.io
+DOMAIN-SUFFIX,cf1.jmsooo.com
+DOMAIN-SUFFIX,178.170.46.165
+DOMAIN-SUFFIX,kk.kwz.io
+DOMAIN-SUFFIX,eden.kwz.io
+DOMAIN-SUFFIX,120.197.88.253
+DOMAIN-SUFFIX,i.kwz.io
 # 三上
-DOMAIN,emby.yoona.vip
-94.130.36.117
+DOMAIN-SUFFIX,emby.yoona.vip
 # 凯露
-DOMAIN,haochi.media
+DOMAIN-SUFFIX,haochi.media
 
 # OtakuDrive
 # CF
-DOMAIN,emby.neko.edu.rs
+DOMAIN-SUFFIX,emby.neko.edu.rs
 
 USER-AGENT,Emby*
 DOMAIN-KEYWORD,emby
