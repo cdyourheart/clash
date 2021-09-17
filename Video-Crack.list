@@ -1,5 +1,12 @@
 ## 📡 视频解析
 ## > 视频解析
+# 奈菲影视
+DOMAIN-SUFFIX,www.nfmovies.com
+# 极品影视
+DOMAIN-SUFFIX,www.jpysvip.net
+# TMDB
+DOMAIN-SUFFIX,www.themoviedb.org
+
 DOMAIN-SUFFIX,1090ys1.com
 DOMAIN-SUFFIX,1090ys2.com
 DOMAIN-SUFFIX,135zyv6.xw0371.com
