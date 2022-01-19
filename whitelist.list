@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amazonaws.com
+# deviantart
+DOMAIN-SUFFIX,www.deviantart.com
