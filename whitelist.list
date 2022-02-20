@@ -23,3 +23,5 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amazonaws.com
 # deviantart
 DOMAIN-SUFFIX,www.deviantart.com
+# emby
+DOMAIN-SUFFIX,emby.yoona.vip
