@@ -2,17 +2,26 @@
 # > Emby
 # Odyssey+ 公益服
 # 美西
-DOMAIN-SUFFIX,http://us.odysseyplus.site
+DOMAIN-SUFFIX,us.odysseyplus.site
+DOMAIN-SUFFIX,kr.odysseyplus.site
+DOMAIN-SUFFIX,jp.odysseyplus.site
+DOMAIN-SUFFIX,jp2.odysseyplus.site
+
+# Appty
+IP-CIDR,129.150.52.158/32
 
 # 后花园
-DOMAIN-SUFFIX,cn2.kwz.io
+DOMAIN-SUFFIX,cn2.kws.moe
 
-# V
-DOMAIN-SUFFIX,http://hk.embyclub.vip
-DOMAIN-SUFFIX,95.217.104.151
+# Embyclub
+IP-CIDR,95.217.104.151/32
 
-# V
-DOMAIN-SUFFIX,embyaz.misakaf.xyz
+# 蓝海
+IP-CIDR,212.90.120.164/32
+DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+
+# MisakaF
+DOMAIN-SUFFIX,misakaf.org
 
 USER-AGENT,Emby*
 DOMAIN-KEYWORD,emby
