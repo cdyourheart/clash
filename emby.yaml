@@ -1,27 +1,25 @@
 # 自己整理的
 # > Emby
+payload:
 # Odyssey+ 公益服
 # 美西
-DOMAIN-SUFFIX,us.odysseyplus.site
-DOMAIN-SUFFIX,kr.odysseyplus.site
-DOMAIN-SUFFIX,jp.odysseyplus.site
-DOMAIN-SUFFIX,jp2.odysseyplus.site
+ - DOMAIN-SUFFIX,us.odysseyplus.site
+ - DOMAIN-SUFFIX,kr.odysseyplus.site
+ - DOMAIN-SUFFIX,jp.odysseyplus.site
+ - DOMAIN-SUFFIX,jp2.odysseyplus.site
 
 # Appty
-IP-CIDR,129.150.52.158/32
+ - IP-CIDR,129.150.52.158/32
 
 # 后花园
-DOMAIN-SUFFIX,cn2.kws.moe
+ - DOMAIN-SUFFIX,cn2.kws.moe
 
 # Embyclub
-IP-CIDR,95.217.104.151/32
+ - IP-CIDR,95.217.104.151/32
 
 # 蓝海
-IP-CIDR,212.90.120.164/32
-DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+ - IP-CIDR,212.90.120.164/32
+ - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
 
 # MisakaF
-DOMAIN-SUFFIX,misakaf.org
-
-USER-AGENT,Emby*
-DOMAIN-KEYWORD,emby
+ - DOMAIN-SUFFIX,misakaf.org
